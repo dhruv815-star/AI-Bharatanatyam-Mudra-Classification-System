@@ -24,4 +24,5 @@ The CNN model trained with the Adam optimizer demonstrates promising results in 
 ## Future Scope
 Future research and development avenues include exploring alternative optimizers, fine-tuning hyperparameters, refining the CNN architecture, and expanding the dataset to improve classification accuracy further. Additionally, the system could be extended to recognize and classify other aspects of Bharatanatyam performances, such as facial expressions and body postures.
 
-
+## License
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details
